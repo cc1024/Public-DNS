@@ -2,7 +2,7 @@
 
 ### 国外 DNS
 
-   #### [Google 公共DNS](https://developers.google.com/speed/public-dns/)
+  #### [Google 公共DNS](https://developers.google.com/speed/public-dns/)
    
    * 8.8.8.8
    * 8.8.4.4
@@ -21,6 +21,11 @@
    
    * 199.85.126.10
    * 199.85.127.10
+   
+  #### [Freenom World](http://www.freenom.world)
+   
+   * 80.80.80.80
+   * 80.80.81.81
 
 ### 国内 DNS
 
@@ -91,3 +96,8 @@
   
    * 123.207.137.88   
    * 115.159.220.214
+   
+  #### [蘑菇DNS](https://www.mogudns.net/)
+   
+   * 115.159.96.69
+   * 122.114.245.45
