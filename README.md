@@ -69,6 +69,9 @@
   #### [腾讯DNSPod](https://www.dnspod.cn/Products/Public.DNS)
    
    * 119.29.29.29
+   * 119.28.28.28
+   * 182.254.118.118
+   * 182.254.116.116
  
   #### [百度公共DNS](http://dudns.baidu.com/intro/publicdns/)
   
