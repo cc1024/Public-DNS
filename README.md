@@ -66,7 +66,7 @@
   
    * 180.76.76.76
    
-  [中科大DNS](https://groups.google.com/forum/#!forum/neat-dns)
+  [中科大DNS](https://groups.google.com/forum/#!forum/neat-dns)
    
    * 202.38.93.153
       >教育网
@@ -79,7 +79,12 @@
 
    * 178.79.131.110
 
-  [CNNIC SDNS](http://public.sdns.cn/)
+  [CNNIC SDNS](http://public.sdns.cn/)
    
    * 1.2.4.8
    * 210.2.4.8
+
+  [Pure DNS](http://puredns.cn/)
+  
+   * 123.207.137.88   
+   * 115.159.220.214
