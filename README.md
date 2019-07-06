@@ -5,16 +5,25 @@
 #### [Google 公共DNS](https://developers.google.com/speed/public-dns/)
    - 8.8.8.8
    - 8.8.4.4
+   
+#### [Cloudflare DNS](https://1.1.1.1/dns/)
+   - 1.1.1.1
+   
+#### [IBM DNS](https://www.ibm.com/developerworks/community/blogs/3302cc3b-074e-44da-90b1-5055f1dc0d9c/entry/ibm-dns-quad9?lang=en)
+   - 9.9.9.9
 
 #### [OpenDNS](https://www.opendns.com/)
    - 208.67.222.222
    - 208.67.220.220
+   
 #### [Comodo Secure DNS](https://www.comodo.com/secure-dns/)
    - 8.26.56.26
    - 8.20.247.20
+   
 #### [Norton DNS](https://dns.norton.com/)
    - 199.85.126.10
    - 199.85.127.10
+   
 #### [Freenom World](http://www.freenom.world)
    - 80.80.80.80
    - 80.80.81.81
@@ -82,32 +91,3 @@
  - 210.2.4.8
 
 
-----------
-
-
->#### [Pure DNS](http://puredns.cn/)(已停止服务)
- - 123.207.137.88   
- - 115.159.220.214
->#### [蘑菇DNS](https://www.mogudns.net/) (已停止服务)
- - 115.159.96.69
- - 122.114.245.45
->#### [Fun DNS](http://www.fundns.cn/)
-- 119.23.248.241
-   >☝ 屏蔽广告、反劫持、科学上网
->#### [Cute DNS](https://www.cutedns.cc/)
-- 123.206.61.167
-   >☝ 华北高速
-- 119.29.105.234
-   >☝ 华南高速
-- 101.236.28.23
-   >☝ 华北去广告
-- 120.77.212.84
-   >☝ 华南去广告
->#### [AIXYZ DNS](https://aixyz.com/)
-- 115.159.146.99
-   >☝ 南方
-- 123.206.21.48
-   >☝ 北方   
->#### [BAI DNS](https://baidns.cn/)
-- 106.14.152.170
-   >☝ 支持EDNS智能解析，无污染DNS，快速安全
